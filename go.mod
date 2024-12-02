@@ -1,3 +1,3 @@
-module github.com/harikaduyu/aoc-skeletion-go
+module github.com/harikaduyu/aoc-skeleton-go
 
 go 1.21.4
